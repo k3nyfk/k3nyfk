@@ -4,7 +4,7 @@ Hi 👋 My name is Kenny Foo-Kune
 Mobile Developer and Electrical Engineer
 ----------------------------------------
 
-I have majored in Electrical Engineering and was developing Android apps as a hobby. After working about 7 years in Electrical Engineering field, I have decided to become a mobile developer. Although I miss designing and programming hardware, I enjoy the constant evolution of mobile programming which keeps me updated with technology and programming languages such as Kotlin.
+As a graduate with a degree in Electrical Engineering, I pursued Android application development as a hobby. After gaining extensive experience in the Electrical Engineering sector spanning seven years, I resolved to redirect my career towards mobile application development. While I do miss the process of hardware design and programming, I find the continually evolving nature of mobile programming to be stimulating and exciting, allowing me to remain up-to-date with the latest technologies and programming languages such as Kotlin and Java.
 
 * 🌍  I'm based in Toronto, Canada
 * ✉️  You can contact me at [kenny.fookune@gmail.com](mailto:kenny.fookune@gmail.com)
